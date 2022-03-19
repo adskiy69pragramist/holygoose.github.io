@@ -63,3 +63,8 @@ main {
   .separator:not(:empty)::after {
     margin-left: .25em;
   }
+.jared {
+  background-image: url('img/Jared_Cave.png');
+  width:100%;
+  height:1000px;
+}
